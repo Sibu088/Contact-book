@@ -19,4 +19,4 @@ pip install pyinstaller
 python -m pip install tk
 
 python Contact_Book_PythonGeeks.py
-or open the file with windows
+or open the file with python 313,install it first .
